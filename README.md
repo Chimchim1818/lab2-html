@@ -1,6 +1,8 @@
 # Lab 2: HTML5 Web Page & Validation
 
-## Objective
+# Author: Chimuka Sakala
+
+## Project Description
 In this lab, I created a structured HTML5 webpage using semantic elements, added a form with validation, and published the project on GitHub.
 
 
